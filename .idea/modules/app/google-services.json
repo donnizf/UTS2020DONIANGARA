@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "319582164305",
+    "firebase_url": "https://utsamubti7jm1711500070doniangg.firebaseio.com",
+    "project_id": "utsamubti7jm1711500070doniangg",
+    "storage_bucket": "utsamubti7jm1711500070doniangg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319582164305:android:8bfadb96813d3ee419af70",
+        "android_client_info": {
+          "package_name": "ac.id.atmaluhur.mahasiswa.uts_amub_ti7jm_1711500070_doni_anggara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319582164305-q0sl6njuag1k6du2t68f9r98n6kh1cni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ac.id.atmaluhur.mahasiswa.uts_amub_ti7jm_1711500070_doni_anggara",
+            "certificate_hash": "305737ba1526da2679561b2b8b536029e32af857"
+          }
+        },
+        {
+          "client_id": "319582164305-re6bhvm3lv9pjh861fo77h3olk46c653.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcBEQrR1-t0BI9Xw8ez84rbTcJOnZX71c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319582164305-re6bhvm3lv9pjh861fo77h3olk46c653.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
